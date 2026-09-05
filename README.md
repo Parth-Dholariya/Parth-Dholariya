@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthdholariya&label=Profile%20views&color=0e75b6&style=flat" alt="parthdholariya" /> </p>
 
 - 🔭 I’m currently doing M.tech at NIT Rourkela
-- 🌱 I’m currently learning about Deep Learning
+- 🌱 I’m currently learning about core computer science
 - 👯 I’m looking to collaborate on a team that passionate about software
 - 🤔 I’m looking for help with providing me opportunity
 - 📫 How to reach me: parthdholariya2001@gmail.com
